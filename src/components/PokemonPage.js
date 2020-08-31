@@ -42,7 +42,7 @@ class PokemonPage extends React.Component {
       <Container>
         <h1>Pokemon Searcher</h1>
         <br />
-        <PokemonForm addNewPokemon={this.addNewPokemon}/>
+        <PokemonForm searchParams={this.state.searchParams} addNewPokemon={this.addNewPokemon}/>
         <br />
         <Search handleSearch={this.handleSearch}/>
         <br />
