@@ -1342,15 +1342,6 @@
       }
     },
     {
-      "name": "bulb",
-      "hp": 0,
-      "sprites": {
-        "front": "",
-        "back": ""
-      },
-      "id": 151
-    },
-    {
       "name": "bulbasaur",
       "hp": "60",
       "sprites": {
